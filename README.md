@@ -3,12 +3,12 @@
 Permissions on /etc/shadow should allow only root read and write access.
 Command to inspect permissions:
 
- &emsp;**$ls -l /etc/shadow**
+ &emsp;&emsp;**$ls -l /etc/shadow**
 
 
 Command to set permissions (if needed):
 
-  **$sudo chmod 600 /etc/shadow**
+ &emsp;&emsp;**$sudo chmod 600 /etc/shadow**
 
 
 Permissions on /etc/gshadow should allow only root read and write access.
