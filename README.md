@@ -109,6 +109,11 @@ Provide a report from the Lynis output with recommendations for hardening the sy
 
 Screenshot of report output:
 
+&emsp;&emsp;![Linux_Admin_1](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/2f5b9e27-6a38-4920-bcc9-e80b15d1f305)
+![Linux_admin_2](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/d5a202ec-7b1f-4380-82c1-3ff794065b73)
+![Linux_admin_3](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/2c8789cc-9edd-454f-973e-80d7bfa00854)
+![Linux_admin_4](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/9563a304-49d3-4604-8206-baba27ae7726)
+![Linux_admin_5](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/931ba78b-1ceb-4851-939e-abd34efcbdc4)
 
 
 
@@ -133,3 +138,4 @@ Provide a report from the chrootkit output with recommendations for hardening th
 Screenshot of end of sample output:
 
 
+![Linux_admin_6](https://github.com/tjbuckley94/Linux-systems-administration/assets/124013280/03624719-df86-4c11-8004-b02e472df7a6)
