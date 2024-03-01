@@ -48,11 +48,16 @@ Command to set permissions (if needed):
 Add user accounts for sam, joe, amy, sara, and admin1 with the useradd command.
 Command to add each user account (include all five users):
 
- &emsp;&emsp;**$sudo adduser sam
- &emsp;&emsp;$sudo adduser joe
- &emsp;&emsp;$sudo adduser amy
- &emsp;&emsp;$sudo adduser sara
- &emsp;&emsp;$sudo adduser admin1**
+ &emsp;&emsp;**$sudo adduser sam  
+ 
+ &emsp;&emsp;$sudo adduser joe  
+ 
+ &emsp;&emsp;$sudo adduser amy  
+ 
+ &emsp;&emsp;$sudo adduser sara  
+ 
+ &emsp;&emsp;$sudo adduser admin1**  
+ 
 
 
 Ensure that only the admin1 has general sudo access.
@@ -71,10 +76,14 @@ Command to add group:
 Add users sam, joe, amy, and sara to the managed group.
 Command to add users to engineers group (include all four users):
 
- &emsp;&emsp;**$sudo usermod -aG engineers sam
- &emsp;&emsp;$sudo usermod -aG engineers joe
- &emsp;&emsp;$sudo usermod -aG engineers amy
- &emsp;&emsp;$sudo usermod -aG engineers sara**
+ &emsp;&emsp;**$sudo usermod -aG engineers sam  
+ 
+ &emsp;&emsp;$sudo usermod -aG engineers joe  
+ 
+ &emsp;&emsp;$sudo usermod -aG engineers amy  
+ 
+ &emsp;&emsp;$sudo usermod -aG engineers sara**  
+  
 
 
 Create a shared folder for this group at /home/engineers.
